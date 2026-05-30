@@ -1,3 +1,27 @@
+# Flipkart Clone
+
+A Flipkart Homepage Clone built using ReactJS.
+
+## Features
+
+- Product Search
+- Category Filtering
+- Top Deals Filtering
+- Add To Cart
+- Dynamic Product Rendering
+- Responsive UI
+
+## Technologies Used
+
+- ReactJS
+- JavaScript
+- HTML
+- CSS
+
+## Author
+
+Kanishak Bansal
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
